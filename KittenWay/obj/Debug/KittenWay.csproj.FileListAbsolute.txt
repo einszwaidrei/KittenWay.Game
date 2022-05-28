@@ -1,0 +1,15 @@
+C:\Users\vange\source\repos\KittenWay\obj\Debug\KittenWay.csproj.AssemblyReference.cache
+C:\Users\vange\source\repos\KittenWay\obj\Debug\KittenWay.Properties.Resources.resources
+C:\Users\vange\source\repos\KittenWay\obj\Debug\KittenWay.csproj.GenerateResource.cache
+C:\Users\vange\source\repos\KittenWay\obj\Debug\KittenWay.csproj.CoreCompileInputs.cache
+C:\Users\vange\source\repos\KittenWay\bin\Debug\KittenWay.exe.config
+C:\Users\vange\source\repos\KittenWay\bin\Debug\KittenWay.exe
+C:\Users\vange\source\repos\KittenWay\bin\Debug\KittenWay.pdb
+C:\Users\vange\source\repos\KittenWay\bin\Debug\KittenWay.model.dll
+C:\Users\vange\source\repos\KittenWay\bin\Debug\KittenWay.model.pdb
+C:\Users\vange\source\repos\KittenWay\obj\Debug\KittenWay.csproj.CopyComplete
+C:\Users\vange\source\repos\KittenWay\obj\Debug\KittenWay.exe
+C:\Users\vange\source\repos\KittenWay\obj\Debug\KittenWay.pdb
+C:\Users\vange\source\repos\KittenWay\obj\Debug\KittenWay.Form1.resources
+C:\Users\vange\source\repos\KittenWay\obj\Debug\KittenWay.Control.resources
+C:\Users\vange\source\repos\KittenWay\obj\Debug\KittenWay.MenuPanel.resources

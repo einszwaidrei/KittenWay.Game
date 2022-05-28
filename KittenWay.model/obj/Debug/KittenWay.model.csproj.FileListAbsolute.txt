@@ -1,0 +1,6 @@
+C:\Users\vange\source\repos\KittenWay.model\obj\Debug\KittenWay.model.csproj.AssemblyReference.cache
+C:\Users\vange\source\repos\KittenWay.model\obj\Debug\KittenWay.model.csproj.CoreCompileInputs.cache
+C:\Users\vange\source\repos\KittenWay.model\bin\Debug\KittenWay.model.dll
+C:\Users\vange\source\repos\KittenWay.model\bin\Debug\KittenWay.model.pdb
+C:\Users\vange\source\repos\KittenWay.model\obj\Debug\KittenWay.model.dll
+C:\Users\vange\source\repos\KittenWay.model\obj\Debug\KittenWay.model.pdb
